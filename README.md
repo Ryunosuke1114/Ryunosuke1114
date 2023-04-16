@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Welcome 👋
+
+✍️　My name is Ryunosuke Aoki based on Tokyo. I am a student at Aoyama Gakuin Univ.
+
+📱　I develop mainly in Flutter and Golang in my work.
+
+✈️　My hobby is traveling.
 
 <!--
 **Ryunosuke1114/Ryunosuke1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
