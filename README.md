@@ -2,7 +2,7 @@
 
 ✍️　My name is Ryunosuke Aoki based on Tokyo. I am a student at Aoyama Gakuin Univ.
 
-📱　I develop mainly in Flutter and TypeScript and Golang in my work.
+📱　I develop mainly in Kotlin in my work.
 
 ✈️　My hobby is traveling.
 
