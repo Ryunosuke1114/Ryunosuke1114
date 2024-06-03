@@ -1,6 +1,6 @@
 ### Hi Welcome 👋
 
-✍️　My name is Ryunosuke Aoki based on Tokyo. I am a student at Aoyama Gakuin Univ.
+✍️　My name is Ryunosuke Aoki based on Tokyo.
 
 📱　I develop mainly in Kotlin in my work.
 
