@@ -2,7 +2,7 @@
 
 ✍️　My name is Ryunosuke Aoki based on Tokyo.
 
-📱　I develop mainly in Kotlin in my work.
+📱　I develop mainly Kotlin in my work.
 
 ✈️　My hobby is traveling.
 
